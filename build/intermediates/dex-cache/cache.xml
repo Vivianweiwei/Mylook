@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/33fc9f2257b31a5f79d8c877b4365da7d640b94f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5e8c84f8236b785dad995dfc2d2e387cd073240/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/109326c7e1320f6405cb2694508ee30bd9463a93/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cf9c66d79aec7fcf6c3be009dc9031f3aa418744/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/671ded413831c166464ee0fe4c5ba010e88307a9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d898efb0eb1be45034db6735dd48746eb26ffc17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/31b037b190147305e8468af2f9b3ed4646ed863a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1fcb1a7e27783e021319e44504a020270e6838db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_393bad248c4358b8fb5bb3f539b0f2467d419575/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/678bdb5a1861b0232a43d15049f161a0c90e49fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63cad4dc2dde9c4d5957c1151449b8a402f209ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/32791d57d4893ccdfa84e2c4b8052cd7bb34f089/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e592f86e4bdefea16c4589859eb67d762f48f65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/2a4cd1bd4ab1413b3f90ccfb4dd37d0938dd1c00/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_005e5e0787b11b5deea55dee4856b3d93f5c965d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_e318c25c89e4efb38b25b20d7d71d43e5ba34206/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/1ca88f138f7677dccec2b7fa4e748a48df1c106a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_060bbb23aa3f0ba32511fa30694eae43a634f34f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/14772b08feb1f5f4fb6861e1d8b3d92dbb32b7bd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63ddc94af013bb2b0c92b0ec9db411232a7a8def/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/f661f27ca78a67d113f491613838e022dd05ef5c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d06ad3e88bcf91e8e1e1df407dc137be5865537c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/da84215c25bc97370ffa9a95c442b7ff4294ae9e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d464bfec97690ab8a9cbf8d152f36c550ec3cf16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/9616589c5eb66c742b96f856f5cc4e14f0fb6055/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0e19bfe78e2264d5b0f075603429246f0455c68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/c2b383dfb28b416f18773510d448cc653518f614/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cf5a63e2213666d473189d4bcab2c8112cc66309/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/7d4409bff9cd4102fadba6130bf113270abf3858/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_43ab2d6b43bafa724189df4937c0e4588f6f329e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/b849b5896b53c7d02f5e559748715f46541385de/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1dd733327cc913b4e2f08352cb8ea8c15dada775/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/4e2a5f79e1d7905ece7a9245f487e4f96c27a3d9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_221a0a18bf5cfdb6419fd619ad4e8bce9dd8b0a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/42be1462a2f0e7e286deff1d87fc462c1b930fa9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3dc031d1a0ecaf44830c8c29bf88fe15fbb2cc54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/cf80e2a156b3e484cc30acef9e7ab7ec2906e36c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9832dd1171c1d60dca1d505bd417d2c26c6fadf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/34817491255e9bfba32215badf4ef7e4bf44056f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_602503e285d850d5a65749b3bc9bda047d866c92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/0c81b0563dc07830d1c1f3ea4668b78924c68338/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab1e206492c0463c9562b461f343082d40f677ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/58b725177dcd19ccd1cf59b4e39b608216b4b8f5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_849ee7820454a2ac7b36a847265c79f9a7708fad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/95748febd1c65c8a496a780e54ca28b1051b295b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fec98b691cdb52942308b85f96584ea3b7106126/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/249e07536db24bfe3817b5ac001dc370c4e06665/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70730e468e1237702d92cfb6ecb4cbf6836de232/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/88b9125408169cf5ca258feec44bd01cf596e5a7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d795b655bf11648a3f979febc86e35d51b6e07c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/2a1f295924f3297f75ab43167607306ee3971a30/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_785060ce908cd536765d37553b8fc68ca1b657de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/4a218a3a5d69ada74011a86ec48528a36b2635ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_23ac9ffe432263204e358594fd24487a646de942/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/6c233b2a59b2bab7bee1d1fceb471bede6deaa24/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_28a9fb54510d0021fb64c82f3bfb0980ab29a0bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/620ecc15b4411144ec0424c89b9ebfbf7c0025b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_363145b12be384e8cfccc869c346c2b99be1bf37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/b7fe17aa76ac48ea5ebc9aff08be90b430f54702/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1177fedf98ac3eb0e371f83c108198364a2e4b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_ecfab9245e34b41d6133e435a1fbfce40e2b2eef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3406b3b19e0e5746e58b050e36636d543c14c4f1">
+        <dex dex="/Users/apple/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_05d1a45935554937a4c1d36d0170360fbcf9fe1e/classes.dex" />
+    </item>
+
+</items>
